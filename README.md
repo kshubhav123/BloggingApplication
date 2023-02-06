@@ -1,5 +1,12 @@
 # BloggingApplication
 
+- HTML
+- CSS 
+- BOOTSTRAP
+- MVC REPOSITORY PATTERN
+- ASP .NET CORE 
+- SQL SERVER 
+
 This Website will allow users to register or Login then go to create your own blog with Image, title and his description.
 
 Client comment on blog and get comment notification on blog admin.
