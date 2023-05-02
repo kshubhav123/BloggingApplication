@@ -1,4 +1,4 @@
-# BloggingApplication
+# Blogging Application ASP.NET CORE MVC
 
 - HTML
 - CSS 
